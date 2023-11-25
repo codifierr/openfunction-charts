@@ -10,7 +10,7 @@ global:
   ShipwrightBuild:
     enabled: true
   Contour:
-    enabled: true
+    enabled: false
 
 config:
   knativeServingConfigFeaturesName: config-features
